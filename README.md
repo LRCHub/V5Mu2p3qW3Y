@@ -1,0 +1,72 @@
+# Hilcrhyme – Spirit Of Love
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+涙にも
+翳りの見えない
+輝きを
+その胸に
+あざやかな
+仮初めの光に
+捉われずいる限り
+One day you will find
+The spirit of love will
+Always guide you
+いとしさから
+今はじめよう
+＜♪＞
+哀しみと歓びの波間
+に
+流されない
+夢を抱く
+険しさも
+頬笑みの欠片に
+いつの日か
+続いていく
+The spirit of love
+Will come and completely
+Overtake you
+空が
+少し近付いてくる
+越えるときが来る
+One day you will find
+The spirit of love will
+Always guide you
+心だけが
+永遠を知る
+Release your light
+Unchain your heart
+振り返らないで
+両手につかむまで
+Life reveals the way
+You'll receive the signs
+受けとるのは
+When you recognize
+What love has given you
+The spirit of love
+Will come and completely
+Overtake you
+いとしさから
+今はじめよう
+すべて過去になる
+One day you will find
+The spirit of love will
+Always guide you
+空が
+もっと近付いてくる
+飛び越えてみせる
+と
+The spirit of love
+Will come and completeiy
+Overtake you
+顔を上げて
+倖せだと言える
+その日まで
+One day you will find
+The spirit of love will
+Always guide you
+心だけに
+希望がある
+It's only our love
+```
