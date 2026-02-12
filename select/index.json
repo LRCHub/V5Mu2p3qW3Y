@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Spirit Of Love",
+  "base_artist": "Hilcrhyme",
+  "createdAt": "2026-02-12T08:47:34.705610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spirit of Love",
+      "artist": "Laura Branigan",
+      "has_synced": true,
+      "path": "select/01_Spirit_of_Love_Laura_Branigan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Spirit of Love",
+      "artist": "Average White Band",
+      "has_synced": true,
+      "path": "select/02_The_Spirit_of_Love_Average_White_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Spirit of Love - Dance Mix",
+      "artist": "Average White Band",
+      "has_synced": true,
+      "path": "select/03_The_Spirit_of_Love_-_Dance_Mix_Average_White_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Spirit of Love (Dance Mix)",
+      "artist": "Average White Band",
+      "has_synced": true,
+      "path": "select/04_The_Spirit_of_Love_(Dance_Mix)_Average_White_Band.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spirit of Love",
+      "artist": "Air Supply",
+      "has_synced": true,
+      "path": "select/05_Spirit_of_Love_Air_Supply.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Spirit of Love Watches Over Me",
+      "artist": "The Carter Family",
+      "has_synced": false,
+      "path": "select/06_The_Spirit_of_Love_Watches_Over_Me_The_Carter_Family.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spirit of Love",
+      "artist": "Johnny Hates Jazz feat. Dave Bascombe",
+      "has_synced": true,
+      "path": "select/07_Spirit_of_Love_Johnny_Hates_Jazz_feat._Dave_Bascombe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spirit of Love",
+      "artist": "Johnny Hates Jazz",
+      "has_synced": true,
+      "path": "select/08_Spirit_of_Love_Johnny_Hates_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spirit Of Love",
+      "artist": "Anthony Hamilton",
+      "has_synced": false,
+      "path": "select/09_Spirit_Of_Love_Anthony_Hamilton.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spirit of Love",
+      "artist": "The Firm",
+      "has_synced": false,
+      "path": "select/10_Spirit_of_Love_The_Firm.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spirit Of Love Watches Over Me",
+      "artist": "The Carter Family",
+      "has_synced": false,
+      "path": "select/11_Spirit_Of_Love_Watches_Over_Me_The_Carter_Family.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Spirit of Love - Radio Short Version",
+      "artist": "Average White Band",
+      "has_synced": true,
+      "path": "select/12_The_Spirit_of_Love_-_Radio_Short_Version_Average_White_Band.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Spirit of Love",
+      "artist": "Laura Branigan",
+      "has_synced": true,
+      "path": "select/13_Spirit_of_Love_Laura_Branigan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Spirit of Love",
+      "artist": "Majek Fashek & The Prisoners of Conscience",
+      "has_synced": false,
+      "path": "select/14_Spirit_of_Love_Majek_Fashek_&_The_Prisoners_of_Conscience.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Spirit Of Love",
+      "artist": "Majek Fashek",
+      "has_synced": false,
+      "path": "select/15_Spirit_Of_Love_Majek_Fashek.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Spirit Of Love",
+      "artist": "Firm, The",
+      "has_synced": false,
+      "path": "select/16_Spirit_Of_Love_Firm,_The.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spirit Of Love",
+      "artist": "Hilcrhyme",
+      "has_synced": false,
+      "path": "select/pl_01_Spirit_Of_Love_Hilcrhyme.txt"
+    }
+  ]
+}
